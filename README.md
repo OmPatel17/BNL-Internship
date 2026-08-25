@@ -94,20 +94,6 @@ at scale is what this project targets.
 
 ---
 
-## Repository Contents
-
-```
-.
-├── ml/            # Model training, evaluation, and ONNX-export code (waveform feature extraction)
-├── paper/         # Research paper
-├── poster/        # LISEF research poster
-└── README.md
-```
-
-*(Adjust folder names to match your final layout.)*
-
----
-
 ## Publications & Presentations
 
 - **Research Paper** — co-authored with Zen Pinkenburg (see `/paper`).
